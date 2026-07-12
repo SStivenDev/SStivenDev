@@ -4,7 +4,6 @@
 <p align="center">
   🔭 I’m currently building robust full-stack applications using <strong>.NET</strong> and <strong>React</strong>. <br>
   📝 I follow <strong>Spec-Driven Development</strong> to write clean, testable, and maintainable code from day one. <br>
-  🤖 I leverage <strong>Claude Code</strong> as my AI pair-programmer to accelerate development. <br>
   🔧 I manage the entire software lifecycle with <strong>Azure DevOps</strong> (CI/CD pipelines, boards, and repos).
 </p>
 
