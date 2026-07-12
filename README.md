@@ -4,7 +4,8 @@
 <p align="center">
   🔭 I’m currently building robust full-stack applications using <strong>.NET</strong> and <strong>React</strong>. <br>
   📝 I follow <strong>Spec-Driven Development</strong> to write clean, testable, and maintainable code from day one. <br>
-  🤖 I leverage <strong>Claude Code</strong> as my AI pair-programmer to accelerate development and ensure high-quality deliverables.
+  🤖 I leverage <strong>Claude Code</strong> as my AI pair-programmer to accelerate development. <br>
+  🔧 I manage the entire software lifecycle with <strong>Azure DevOps</strong> (CI/CD pipelines, boards, and repos).
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SStivenDev&label=Profile%20views&color=0e75b6&style=flat" alt="SStivenDev" /> </p>
@@ -32,7 +33,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Tools:**  
+**Tools, DevOps & Workflow:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
