@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sergio Stiven</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">Frontend Developer from Colombia 🇨🇴 | Specializing in React, Next.js and crafting pixel-perfect, responsive web experiences.</h3>
+
+<p align="center">
+  🚀 I love turning complex problems into elegant, intuitive interfaces. <br>
+  🌱 Currently diving deeper into TypeScript and performance optimization.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
